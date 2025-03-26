@@ -1,0 +1,17 @@
+theme: not-much
+menu:
+  main:
+    - identifier: "about"
+      name: "about"
+      title: "About"
+      url: "/"
+    - identifier: "posts"
+      name: "posts"
+      title: "Posts"
+      url: "/posts"
+    - identifier: "github"
+      name: "github"
+      title: "GitHub"
+      url: "https://github.com/noahfigueras"
+
+
