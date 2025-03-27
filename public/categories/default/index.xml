@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Default on </title>
-    <link>//localhost:1313/categories/default/</link>
-    <description>Recent content in Default on </description>
+    <title>Default on Solus</title>
+    <link>http://localhost:1313/categories/default/</link>
+    <description>Recent content in Default on Solus</description>
     <generator>Hugo</generator>
-    <language>en</language>
+    <language>en-us</language>
+    <copyright>0xSolus © {year}</copyright>
     <lastBuildDate>Sun, 28 Apr 2024 21:22:59 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/default/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/default/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Decentralized Marketplace for Freelancers</title>
-      <link>//localhost:1313/posts/2024-04-28-my-first-post/</link>
+      <link>http://localhost:1313/posts/2024-04-28-my-first-post/</link>
       <pubDate>Sun, 28 Apr 2024 21:22:59 +0200</pubDate>
-      <guid>//localhost:1313/posts/2024-04-28-my-first-post/</guid>
+      <guid>http://localhost:1313/posts/2024-04-28-my-first-post/</guid>
       <description>&lt;p&gt;What should be a true decentralized Freelance Platform:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Companies must post offer and pay for their completion.&lt;/li&gt;&#xA;&lt;li&gt;Freelancers should be able to apply and work on the projects that companies&#xA;need to be done.&lt;/li&gt;&#xA;&lt;li&gt;Freelancers working on a same project must be able to collaborate together&#xA;and have good communication.&lt;/li&gt;&#xA;&lt;li&gt;Payments should be paid in crypto.&lt;/li&gt;&#xA;&lt;li&gt;There should be intermediate people (working as freelancers as well) that&#xA;do mediation between companies and freelancer to ensure a fair market and resolve&#xA;disputes.&lt;/li&gt;&#xA;&lt;li&gt;Money should be escrowed.&lt;/li&gt;&#xA;&lt;li&gt;Freelancers should earn a rank in their releated fields. You can hire the best&#xA;for a big price, but you can also hire very competent people that are starting for&#xA;lower amounts.&lt;/li&gt;&#xA;&lt;li&gt;No comissions should be implemented for freelancers or small projects. Maybe&#xA;companies can opt for a top-tier with more features to manage more freelancers.&#xA;Also, donations should be accepted for the maintanance of the project. Freelancers&#xA;can buy ads to promote their services as well as companies.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
   </channel>
