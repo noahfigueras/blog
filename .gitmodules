@@ -3,4 +3,4 @@
 	url = https://github.com/colorchestra/smol
 [submodule "themes/not-much"]
 	path = themes/not-much
-	url = https://github.com/imgios/not-much.git
+	url = https://github.com/noahfigueras/not-much.git
