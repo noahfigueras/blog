@@ -1,8 +1,8 @@
 title: "Solus"
 theme: "not-much"
 languageCode: "en-us"
-baseURL: "https://example.org/"
-copyright: "0xSolus © {year}"
+baseURL: "https://solus.rocks"
+copyright: "© {year} Solus. Smart Contract & Security Research"
 
 markup:
   highlight:

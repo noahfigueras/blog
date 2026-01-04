@@ -1,7 +1,7 @@
 ---
 title: "Immunify ETH ESCAPE CTF Writeup"
 date: 2024-12-01
-slug: "ctf writep"
+slug: "immunify-eth-escape-ctf-writeup"
 description: "This are some of the solutions for the Immunify ETH ESCAPE CTF"
 keywords: ["security", "solidity", "ctf"]
 draft: false
@@ -31,7 +31,7 @@ are stored at slot `keccak256(abi.encode(x, y))` being `y` the slot of the mappi
 variable `keys` which in this case is 1 and `x` the key of the mapping `0xdead`.
 
 Solution:  
-```
+```solidity
   function test_Sekai() public {
     bytes32 slot = keccak256(abi.encode(uint256(0xdead), uint256(1)));
     sekai.unlockSekai(uint256(slot));
